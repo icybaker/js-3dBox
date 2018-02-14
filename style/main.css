@@ -1,7 +1,9 @@
 body {
     background-color: aqua;
 }
-
+.three-d-box {
+    display: inline-block; 
+}
 .cube-container {
     position: relative;
     display: inline-block;
